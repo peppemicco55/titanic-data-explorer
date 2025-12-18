@@ -1,7 +1,7 @@
 # Titanic Data Explorer
 
 Mini progetto di data analysis su dataset open (Titanic), svolto come esercizio settimanale
-per consolidare le basi di analisi dei dati con Python e Pandas.
+per consolidare le basi di analisi dei dati con Python e Pandas. giuseppe
 
 ## Obiettivo
 Esplorare un dataset reale, valutarne la qualità e svolgere un’analisi descrittiva
